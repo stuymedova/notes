@@ -4,4 +4,4 @@ I find that the word "complexity" is a very abstract word to describe the mechan
 
 ---
 
-Prompted the idea: [WWDC18 Embracing Algorithms](https://developer.apple.com/videos/play/wwdc2018/223/), where actually beautifully explained the role algorithms play in App development.
+Prompted the idea: [WWDC18 Embracing Algorithms by Dave Abrahams](https://developer.apple.com/videos/play/wwdc2018/223/), where actually beautifully explained the role algorithms play in App development.
