@@ -6,4 +6,4 @@
 4. Publish everything you do. If it’s bad: people don’t care. If it’s useful, people will be grateful. It doesn’t matter if you plan on maintaining it / polishing it. Release it now, or risk never releasing it at all.
 5. Keep enjoying what you do. There will be times when you don’t, but that’s fine. Eventually you’ll find something that’s interesting again. If you feel like your daily routine is constricting you: change the routine. Being a developer is very lucrative, changing directions is worth it.
 
-Thanks, Yosh!
+[Thanks, Yosh!](https://medium.com/@yoshuawuyts/how-to-become-a-successful-developer-6058723583ef)
