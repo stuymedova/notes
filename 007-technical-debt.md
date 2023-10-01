@@ -8,4 +8,4 @@ If your code base is dacaying faster than it is improving, your investment is in
 
 ---
 
-Thanks, Sean! Found somewhere in Sean Parent's Twitter.
+Thanks, Sean! Found somewhere on Sean Parent's Twitter.
